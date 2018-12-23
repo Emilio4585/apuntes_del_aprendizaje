@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <title>clase 6- microdatos y opengraph</title>
+</head>
+
+<body>
+    <article>
+       <!-->https://schema.org sirve mucho para el seo
+       https://search.google.com/structured-data/testing-tool?hl=es
+       herramientra para datos estructurados
+       </!-->
+        <h2>zapatilla deportiva</h2>
+        <img src="zapatilla.jpg" alt="Foto de zapatilla">
+        <p>Marca:<span>Nike</span></p>
+        <p>Precio:<span>300</span></p>
+    </article>
+    <article itemscope itemtype="https://schema.org/Blog">
+        <h2>clase 6- microdatos y opengraph</h2>
+        <p>este viernes y sabado...</p>
+        <footer>
+            <p itemprop="author">Emilio Rafael Salas Viveros</p>
+        </footer>
+    </article>
+
+</body>
+
+</html>
+<!-->
+opengrap metadatos de facebook
+https://developers.facebook.com/tools/debug/sharing/
+depurador de contenido compartido
+<html prefix="og: http://ogp.me/ns#">
+
+<head>
+    <title>The Rock (1996)</title>
+    <meta property="og:title" content="The Rock" />
+    <meta property="og:type" content="video.movie" />
+    <meta property="og:url" content="http://www.imdb.com/title/tt0117500/" />
+    <meta property="og:image" content="http://ia.media-imdb.com/images/rock.jpg" />
+    ...
+</head>
+...
+
+</html>
+</!-->
