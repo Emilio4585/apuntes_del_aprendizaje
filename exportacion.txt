@@ -1,0 +1,58 @@
+https://www.udemy.com/probar-django-construir-una-aplicacion-web-en-python/learn/v4/t/lecture/5875410?start=0 | PROBAR DJANGO | Crear una Aplicación Web | Udemy
+https://www.udemy.com/curso-basico-de-django-paginas-web-con-python/learn/v4/t/lecture/12126246?start=0 | Curso super básico de Django - Paginas web con python | Udemy
+https://www.udemy.com/como-aprender-ingles-por-cuenta-propia-usando-internet/learn/v4/t/lecture/8609090?start=0 | Como Aprender Inglés Por Cuenta Propia Usando Internet | Udemy
+https://www.mercurytide.co.uk/media/resources/django-cheat-sheet.pdf | django-cheat-sheet.pdf
+http://127.0.0.1:8000/admin/ | Site administration | Django site admin
+
+https://narengowda.github.io/django-queries-cheat-sheet/ | Django - Queries - Cheat sheet – Narendra L – Python Developer + noob data scientist + Arduino and Electronics lover
+https://hackernoon.com/django-orm-relationships-cheat-sheet-14433d6cf68c | Django ORM Relationships Cheat Sheet – Hacker Noon
+http://books.agiliq.com/projects/django-orm-cookbook/en/latest/ | Django ORM Cookbook — Django ORM Cookbook 2.0 documentation
+https://gist.github.com/gladson/1541450 | sql to django queryset cheatsheet by pythonnewbie
+https://github.com/chrisdl/Django-QuerySet-Cheatsheet | chrisdl/Django-QuerySet-Cheatsheet: A cheatsheet (or really more of a reference) for when I am solving the worlds problems in the Django shell
+https://info.unitips.mx/examen-de-muestra-diagnostico?examen_id=Eh2Al8 | ¿Qué tan preparado estás para tu examen de admisión al Bachillerato o Universidad?
+http://simulador.ceneval.edu.mx/ | Simulador Examen en Línea [CENEVAL A.C.]
+https://app.ahorasipaso.com/#/campus/cursos/exani-ii | Ahora Sí Paso App: Cursos en línea para entrar a la Universidad
+http://www.ceneval.edu.mx/examenes-de-diagnostico | Exámenes Diagnósticos - Ceneval
+http://www.aexiuv.com/registro | AEXI UV
+
+https://mega.nz/#F!Xzw2WYpQ!sGuKnSwCry0OV4c51IH0tw | MEGA
+
+https://www.youtube.com/watch?v=np61Wi7rvKM | (9) 10 Grandes Ejemplos de Éxito Después del Fracaso - YouTube
+https://www.youtube.com/watch?v=FUWcsngOnLs | (9) Los Fracasados que hicieron historia y cambiaron al mundo - YouTube
+https://www.youtube.com/watch?v=xDeHrkg2JyA | (9) Top 5 Personas que tuvieron éxito Después del Fracaso - YouTube
+https://www.youtube.com/watch?v=J13pmAl65j8 | (9) Los fracasos mas exitosos de la historia - YouTube
+https://www.youtube.com/watch?v=sJg2hET6n44 | (9) Top 10 Personas Fracasadas que se Volviero Exitosas - Reytops - YouTube
+https://www.youtube.com/watch?v=2Kl6jmcCHJA | (9) ¡No Te Rindas! Estos Famosos También Han Fracasado | AutoayudaPractica.com - YouTube
+https://www.youtube.com/ | (9) YouTube
+
+https://www.memrise.com/home/ | Dashboard - Memrise
+https://www.duolingo.com/ | Duolingo | Aprende inglés completamente gratis
+https://www.youtube.com/watch?v=rfscVS0vtbw&t=400s | (8) Learn Python - Full Course for Beginners - YouTube
+https://www.youtube.com/watch?v=vAKtNV8KcWg | (8) Code Radio 🎧 + 💻 24/7 concentration music for programmers 🔥 jazzy beats from freeCodeCamp.org - YouTube
+https://learn.freecodecamp.org/responsive-web-design/basic-css/adjust-the-padding-of-an-element/ | Basic CSS: Adjust the Padding of an Element | Learn freeCodeCamp
+
+https://wallhere.com/ | Fondos de pantalla hd Fondos de pantalla - WallHere
+https://matplotlib.org/gallery/images_contours_and_fields/affine_image.html#sphx-glr-gallery-images-contours-and-fields-affine-image-py | Affine transform of an image — Matplotlib 3.0.2 documentation
+https://www.youtube.com/results?search_query=empresas+que+empezaron+de+la+nada | (3) empresas que empezaron de la nada - YouTube
+https://www.youtube.com/watch?v=aZLyp5PZGaE | (4) Youtube prohibe el Bird Box Challenge y Slack cambia de Logo | CvanderNews Semana 3 - YouTube
+
+https://issuu.com/placidobalam/docs/teoriadeautomatas_lenguajesycomputa | Teoriadeautomatas,lenguajesycomputacion hopcroft by Placido Balam - issuu
+http://geeklynet.com/shows-de-ciencia-ficcion-que-no-te-puedes-perder/?fbclid=IwAR316lj9N2Rhz8qzfeUrQRDkTfbRrj56rDemDDfOMmslO1Lr15TLXDTN4Qw | SHOWS DE CIENCIA FICCIÓN QUE NO TE PUEDES PERDER | Geekly
+
+https://matplotlib.org/gallery/index.html | Gallery — Matplotlib 3.0.2 documentation
+https://opticspy.github.io/lightpipes/install.html | 2. Installation. — LightPipes for Python 1.1.3 documentation
+https://www.google.com/search?client=firefox-b-ab&q=degradar+una+imagen+en+python | degradar una imagen en python - Buscar con Google
+https://claudiovz.github.io/scipy-lecture-notes-ES/advanced/image_processing/index.html | 2.6. Manipulación y procesamiento de imágenes usando Numpy y Scipy — Scipy lecture notes
+https://www.google.com/search?client=firefox-b-ab&q=numpy+misc | numpy misc - Buscar con Google
+https://www.google.com/search?client=firefox-b-ab&q=numpy+images | numpy images - Buscar con Google
+http://scikit-image.org/docs/dev/user_guide/numpy_images.html | A crash course on NumPy for images — skimage v0.15.dev0 docs
+
+https://aprende.org/pages.php?r=.cfcs_course&tagID=4682&load=5329&n=1&brandID=&program_origin= | aprende.org Curso de Analista de datos
+https://www.descargasnsn.com/22965-jetbrains-pycharm-professional-v2017-python-ide.html | JetBrains PyCharm Professional v2017.1.2 Python IDE profesional » DescargasNsN | Descarga directa y Torrent
+https://activationkeys.org/pycharm-full-free/ | PyCharm 2018 Crack + License Key Full Version [Working 100%]
+
+https://www.cisco.com/c/en/us/training-events/training-certifications/overview.html | Overview - Training & Certifications - Cisco
+https://www.netacad.com/es | Cisco Networking Academy Builds IT Skills & Education For Future Careers
+https://www.youtube.com/watch?v=9tO9OaQ8m6w | ¿Los Peores Programadores? y GitHub Privado Gratis | Vida de Programador #160 - YouTube
+https://stackoverflow.com/questions/45421163/anaconda-vs-miniconda | python - Anaconda vs. miniconda - Stack Overflow
+https://www.google.com/search?client=firefox-b-ab&q=go+lenguaje | go lenguaje - Buscar con Google
