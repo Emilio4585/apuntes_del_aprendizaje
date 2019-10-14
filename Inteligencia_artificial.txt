@@ -1,0 +1,40 @@
+optativas
+
+    Aprendizaje, simulación y agentes.
+    Cómputo de Alto Desempeño.
+    Cómputo Evolutivo.
+    Geometría Computacional.
+    Optimización en Ingeniería.
+    Optimización Evolutiva Multi-Objetivo.
+    Redes Bayesianas.
+    Redes Neuronales.
+    Robótica Móvil
+    Sistemas Multi-Agentes.
+    Visión por Computadora.
+    Web Semántica.
+    Temas Selectos de Inteligencia Artificial
+     Temas Selectos de Aprendizaje
+    Temas Selectos de Robótica
+    Temas Selectos de Minería de Datos
+    Temas Selectos de Optimización
+primero
+	Introducción a la Inteligencia Artificial
+	Programación para la Inteligencia Artificial
+	Análisis de Algoritmos
+	Autómatas y Lenguajes Formales
+segundo
+	Métodos Probabilísticos para la Inteligencia Artificial
+	Computabilidad
+	R…
+https://www.tensorflow.org/ | TensorFlow
+
+https://www.coursera.org/learn/machine-learning/home/week/1 | Aprendizaje Automático - Introduction | Coursera
+https://www.coursera.org/courses?query=artificial%20intelligence& | Cursos de Artificial Intelligence | Coursera
+https://developers.google.com/machine-learning/crash-course/prereqs-and-prework | Requisitos y trabajo previos  |  Curso intensivo de aprendizaje automático  |  Google Developers
+https://www.coursera.org/learn/ai-for-everyone-es/lecture/SRwLN/semana-1-introduccion | Semana 1 Introducción - deeplearning.ai | Coursera
+https://blog.adext.com/inteligencia-artificial-guia-completa/ | ¿Qué Es La Inteligencia Artificial? [Guía Con Todo Lo Que Debes Saber] - Adext Blog
+https://blog.adext.com/machine-learn…
+https://www.youtube.com/watch?v=qTNUbPkR2ao&list=PL-Ogd76BhmcDxef4liOGXGXLL-4h65bs4
+https://www.youtube.com/channel/UCrEM9nM7pxy0TtgDyTXljFQ/playlists
+https://www.youtube.com/channel/UCLJV54sFqPiH4MYcJKvGesg
+https://www.youtube.com/channel/UCG4H4Qf-ZU9Ycr_PQ4egqDQ
